@@ -70,7 +70,7 @@ If you want to debug on your own device, you should setup Network extension to y
 
 ## Contributors
 
-@zteshadow
+@samuel
 
 ## About US
 [OmniEdge](https://omniedge.io) is primiary developed by the people at [https://github.com/orgs/omniedgeio/people](https://github.com/orgs/omniedgeio/people). 
