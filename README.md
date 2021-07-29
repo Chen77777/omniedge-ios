@@ -57,7 +57,7 @@ You can prepare your own supernode and build the client to reach your own target
 > Clone
 
 ```
-git clone git@gitlab.com:omniedge/omniedge-ios.git --recursive
+git clone git@github.com:omniedgeio/omniedge-ios.git --recursive
 ```
 
 > Compile
