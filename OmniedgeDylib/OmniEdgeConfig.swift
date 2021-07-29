@@ -16,7 +16,7 @@ extension OmniEdgeConfig {
 }
 
 public struct OmniEdgeConfig : Codable {
-    public var superNodeAddr: String = "54.223.23.92"
+    public var superNodeAddr: String = "192.168.1.92"
     public var superNodePort: String = "7787"
     public var networkName: String = ""
     public var encryptionKey: String = ""
