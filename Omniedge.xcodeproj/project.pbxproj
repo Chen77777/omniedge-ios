@@ -501,7 +501,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1240;
+				LastUpgradeCheck = 1250;
 				TargetAttributes = {
 					7E6C982926384D0B00163586 = {
 						CreatedOnToolsVersion = 12.4;
@@ -983,7 +983,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = OmniEdgeiOS;
 				SWIFT_OBJC_BRIDGING_HEADER = "Tunnel-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1016,7 +1016,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = OmniEdgeiOS;
 				SWIFT_OBJC_BRIDGING_HEADER = "Tunnel-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -1129,7 +1129,7 @@
 		7EBAE824267F259F007B92AA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
@@ -1167,7 +1167,7 @@
 		7EBAE825267F259F007B92AA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
